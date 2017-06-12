@@ -1,0 +1,10 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="ZombieControl">
+			<method name="Smaller"/>
+			<method name="LookAt"/>
+			<method name="Walk"/>
+			<method name="Bigger"/>
+		</type>
+	</assembly>
+</linker>
